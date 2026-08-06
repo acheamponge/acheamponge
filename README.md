@@ -26,6 +26,17 @@ More in flight across [LiteLLM](https://github.com/BerriAI/litellm/pull/34944), 
 | [crusoe-ai-provider](https://github.com/acheamponge/crusoe-ai-provider) | Crusoe provider for the Vercel AI SDK |
 | [crusoe-huggingface-demos](https://github.com/acheamponge/crusoe-huggingface-demos) | 20 Hugging Face Spaces demos, live on the [crusoeai org](https://huggingface.co/crusoeai) |
 
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=acheamponge&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acheamponge&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=acheamponge&theme=transparent&hide_border=true" alt="Contribution streak" />
+</p>
+
 ## Elsewhere
 
 - Website: [acheamponge.github.io](https://acheamponge.github.io/)
