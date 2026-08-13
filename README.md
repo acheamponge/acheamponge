@@ -26,22 +26,6 @@ More in flight across [LiteLLM](https://github.com/BerriAI/litellm/pull/34944), 
 | [crusoe-ai-provider](https://github.com/acheamponge/crusoe-ai-provider) | Crusoe provider for the Vercel AI SDK |
 | [crusoe-huggingface-demos](https://github.com/acheamponge/crusoe-huggingface-demos) | 20 Hugging Face Spaces demos, live on the [crusoeai org](https://huggingface.co/crusoeai) |
 
-## GitHub stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=acheamponge&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=acheamponge&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acheamponge&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acheamponge&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=acheamponge&theme=dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=acheamponge&theme=default&hide_border=true" alt="Contribution streak" />
-</picture>
-
 ## Elsewhere
 
 - Website: [acheamponge.github.io](https://acheamponge.github.io/)
