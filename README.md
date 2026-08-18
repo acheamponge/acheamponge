@@ -7,11 +7,14 @@ Dev Rel Engineering at [Crusoe](https://crusoe.ai), the AI factory company. I sh
 | Project | What landed |
 |---|---|
 | [Pipecat](https://github.com/pipecat-ai/pipecat/pull/5024) | `CrusoeLLMService` for real-time voice agents |
+| [Pydantic AI](https://github.com/pydantic/pydantic-ai/pull/6457) | Native `CrusoeProvider` |
+| [vLLM](https://github.com/vllm-project/vllm/pull/49353) | Crusoe Managed Inference deployment guide |
+| [models.dev](https://github.com/anomalyco/models.dev/pull/3769) | Crusoe in the model registry powering Cline, Kilo Code, Mastra, and OpenCode catalogs |
 | [aisuite](https://github.com/andrewyng/aisuite/pull/351) | Crusoe provider for Andrew Ng's unified LLM interface |
 | [Strands Agents](https://github.com/strands-agents/harness-sdk/pull/3225) | Crusoe as a community model provider |
 | [Vercel AI SDK](https://github.com/vercel/ai/pull/18466) | Crusoe community provider docs (co-authored) |
 
-More in flight across [LiteLLM](https://github.com/BerriAI/litellm/pull/34944), [Pydantic AI](https://github.com/pydantic/pydantic-ai/pull/6457), [vLLM](https://github.com/vllm-project/vllm/pull/49353), [Cline](https://github.com/cline/cline/pull/12267), [LiveKit Agents](https://github.com/livekit/agents/pull/6408), [CrewAI](https://github.com/crewAIInc/crewAI/pull/6530), [Agno](https://github.com/agno-agi/agno/pull/8920), [Portkey](https://github.com/Portkey-AI/gateway/pull/1732), and [models.dev](https://github.com/anomalyco/models.dev/pull/3769).
+More in flight across [LiteLLM](https://github.com/BerriAI/litellm/pull/34944), [Cline](https://github.com/cline/cline/pull/12267), [LiveKit Agents](https://github.com/livekit/agents/pull/6408), [CrewAI](https://github.com/crewAIInc/crewAI/pull/6530), [Agno](https://github.com/agno-agi/agno/pull/8920), [Portkey](https://github.com/Portkey-AI/gateway/pull/1732), [Helicone](https://github.com/Helicone/helicone/pull/5777), [Kilo Code](https://github.com/Kilo-Org/kilocode/pull/13141), and [Continue](https://github.com/continuedev/continue/pull/13136).
 
 ## Projects
 
