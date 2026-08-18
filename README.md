@@ -6,6 +6,7 @@ Dev Rel Engineering at [Crusoe](https://crusoe.ai), the AI factory company. I sh
 
 | Project | What landed |
 |---|---|
+| [LiteLLM](https://github.com/BerriAI/litellm/pull/23195) | Crusoe as a provider, `crusoe/<model>` across the SDK and proxy |
 | [Pipecat](https://github.com/pipecat-ai/pipecat/pull/5024) | `CrusoeLLMService` for real-time voice agents |
 | [Pydantic AI](https://github.com/pydantic/pydantic-ai/pull/6457) | Native `CrusoeProvider` |
 | [vLLM](https://github.com/vllm-project/vllm/pull/49353) | Crusoe Managed Inference deployment guide |
