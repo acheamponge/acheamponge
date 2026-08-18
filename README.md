@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Acheampong
 
-Dev Rel Engineering at [Crusoe](https://crusoe.ai), the AI factory company. I ship integrations that make Crusoe Managed Inference work everywhere developers already build: LangChain, LiteLLM, MLflow, Vercel AI SDK, Pipecat, and more.
+Dev Rel Engineering at [Crusoe](https://crusoe.ai/developers), the AI factory company. I ship integrations that make Crusoe Managed Inference work everywhere developers already build: LangChain, LiteLLM, MLflow, Vercel AI SDK, Pipecat, and more.
 
 ## Contributions merged into major open-source projects
 
