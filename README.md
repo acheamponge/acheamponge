@@ -29,6 +29,7 @@ More in flight across [LiteLLM](https://github.com/BerriAI/litellm/pull/34944), 
 | [crusoe-voice-agent](https://github.com/acheamponge/crusoe-voice-agent) | Browser voice agent built on Pipecat |
 | [crusoe-ai-provider](https://github.com/acheamponge/crusoe-ai-provider) | Crusoe provider for the Vercel AI SDK |
 | [crusoe-huggingface-demos](https://github.com/acheamponge/crusoe-huggingface-demos) | 20 Hugging Face Spaces demos, live on the [crusoeai org](https://huggingface.co/crusoeai) |
+| [crusoe-content-sprint](https://github.com/acheamponge/crusoe-content-sprint) | Cookbook for platforms without a native integration: Google ADK, Zed, Cursor, Tavily, Linkup, Postman |
 
 ## Elsewhere
 
